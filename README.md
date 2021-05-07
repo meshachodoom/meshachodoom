@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meshachodoom
 - 👀 I’m interested in mobile application development
-- 🌱 I’m currently learning android application development using JAVA
+- 🌱 I’m currently learning android application development using flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me modoom360@gmail.com
 
